@@ -1,0 +1,40 @@
+PODS:
+  - React (0.13.0-rc):
+    - React/Core (= 0.13.0-rc)
+  - React/Core (0.13.0-rc)
+  - React/RCTActionSheet (0.13.0-rc):
+    - React/Core
+  - React/RCTGeolocation (0.13.0-rc):
+    - React/Core
+  - React/RCTImage (0.13.0-rc):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.13.0-rc):
+    - React/Core
+  - React/RCTNetwork (0.13.0-rc):
+    - React/Core
+  - React/RCTSettings (0.13.0-rc):
+    - React/Core
+  - React/RCTText (0.13.0-rc):
+    - React/Core
+  - React/RCTVibration (0.13.0-rc):
+    - React/Core
+  - React/RCTWebSocket (0.13.0-rc):
+    - React/Core
+
+DEPENDENCIES:
+  - React (= 0.13.0-rc)
+  - React/RCTActionSheet
+  - React/RCTGeolocation
+  - React/RCTImage
+  - React/RCTLinkingIOS
+  - React/RCTNetwork
+  - React/RCTSettings
+  - React/RCTText
+  - React/RCTVibration
+  - React/RCTWebSocket
+
+SPEC CHECKSUMS:
+  React: 954f9c87235fcba91eac21d2632e1227a7336839
+
+COCOAPODS: 0.39.0
